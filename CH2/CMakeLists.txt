@@ -1,0 +1,5 @@
+add_library(hello_static PrintHello.cpp)
+add_library(hello_sharesd SHARED PrintHello.cpp)
+add_executable(helloslam helloslam.cpp)
+add_executable(TestHelloLib TestHelloLib.cpp)
+target_link_libraries(TestHelloLib hello_sharesd)

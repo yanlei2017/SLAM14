@@ -25,7 +25,7 @@ int main(int argc, char const *argv[])
 
     v_3d << 3, 2, 1;
 
-    // Eigen::Matrix<double, 2, 1> result_wrong_type = matrix_23f * v_3d;                     //float matrix cant multiply with double matrix
+    //   Eigen::Matrix<double, 2, 1> result_wrong_type = matrix_23f * v_3d;                     //float matrix cant multiply with double matrix
     Eigen::Matrix<double, 2, 1> result = matrix_23f.cast<double>() * v_3d; // tramsform float matrix to double
     // Eigen::Matrix<double, 2, 3> result_wrong_dimension = matrix_23f.cast<double>() * v_3d; // wrong dimension of result matrix
     cout << "\nmatrix_23f * v_3d = \n"

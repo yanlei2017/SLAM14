@@ -3,7 +3,10 @@ project(Slam14 VERSION 0.1.0)
 
 include(CTest)
 enable_testing()
-add_subdirectory(CH2 bin)
+include_directories("/usr/include/eigen3")
+add_subdirectory(CH2 CH2/bin)
+add_subdirectory(CH3 CH3/bin)
+
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
 include(CPack)

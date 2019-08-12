@@ -1,0 +1,5 @@
+find_package(OpenCV REQUIRED)
+set(CMAKE_CXX_STANDARD 11 )
+include_directories(${OpenCV_INCLUDE_DIRS})
+add_executable(imageBasics imageBasics.cpp)
+target_link_libraries(imageBasics ${OpenCV_LIBS})

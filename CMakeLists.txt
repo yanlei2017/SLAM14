@@ -11,6 +11,8 @@ include_directories("/usr/include/eigen3")
 add_subdirectory(CH2 CH2/bin)
 add_subdirectory(CH3 CH3/bin)
 add_subdirectory(CH4 CH4/bin)
+add_subdirectory(CH5 CH5/bin)
+
 
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})

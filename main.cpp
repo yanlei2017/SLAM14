@@ -1,10 +1,5 @@
 #include <iostream>
 using namespace std;
-<<<<<<< HEAD
-int main(int, char**) {
-    cout << "Hello, world!\n";
-    cout<<sizeof(long double  )<<endl;    
-=======
 class Clock {
  private:
   int hour, minute, second;
@@ -37,7 +32,6 @@ Clock::Clock(int hour, int minute, int second) {
   }
   cout << "Time initialized at  " << this->hour << ":" << this->minute << ":"
        << this->second << endl;
->>>>>>> 57342546f4de485a313951a128a513abe2754109
 }
 
 Clock::~Clock() {}

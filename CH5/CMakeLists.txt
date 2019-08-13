@@ -1,10 +1,10 @@
 find_package(OpenCV REQUIRED)
 set(CMAKE_CXX_STANDARD 11 )
+
 include_directories(${OpenCV_INCLUDE_DIRS})
 add_executable(imageBasics imageBasics.cpp)
 target_link_libraries(imageBasics ${OpenCV_LIBS})
-set(CMAKE_CXX_STANDARD 11)
-include_directories(${OpenCV_INCLUDE_DIRS})
+
 include_directories("/usr/include/eigen3")
 
 find_package(PCL REQUIRED COMPONENT common io)

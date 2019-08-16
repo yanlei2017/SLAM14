@@ -1,8 +1,5 @@
-find_package(Sophus REQUIRED)
-include_directories(${Sophus_INCLUDE_DIRS})
-message("Sophus_INCLUDE_DIRS :" ${Sophus_INCLUDE_DIRS})
 add_executable(someprove someprove.cpp)
 add_executable(useSophus useSophus.cpp)
 target_link_libraries(someprove ${Sophus_LIBRARIES})
 target_link_libraries(useSophus ${Sophus_LIBRARIES})
-message("Sophus_LBRARIES :" ${Sophus_LIBRARIES})
+

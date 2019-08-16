@@ -1,3 +1,7 @@
+#ifndef LIBFEATUREEXTRACTION_H
+#define LIBFEATUREEXTRACTION_H
+
+
 #include <iostream>
 #include <opencv2/calib3d/calib3d.hpp> //计算基础矩阵...
 #include <opencv2/core/core.hpp>
@@ -15,3 +19,4 @@ void findFeatureMatchs(const Mat &img_1, const Mat &img_2,
                        vector<DMatch> &good_matches);
 
 Point2d pixel2cam(const Point2d &p, const Mat &K);
+#endif

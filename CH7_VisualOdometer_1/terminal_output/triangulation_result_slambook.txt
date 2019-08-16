@@ -1,0 +1,428 @@
+-- Max dist : 95.000000 
+-- Min dist : 7.000000 
+一共找到了81组匹配点
+fundamental_matrix is 
+[5.435453065896191e-06, 0.0001366043242983499, -0.02140890086929781;
+ -0.0001321142229818118, 2.339475702766975e-05, -0.006332906454914053;
+ 0.02107630352186664, -0.003666833952417687, 1]
+essential_matrix is 
+[0.007841371796261635, 0.2075176016541406, 0.1181719698273573;
+ -0.190270235105878, 0.03346203071185214, -0.6710910536624433;
+ -0.07512093110340777, 0.6702181417805779, 0.0197271235906156]
+homography_matrix is 
+[0.9131751791765326, -0.1092435315745437, 29.95860009812312;
+ 0.02223560352253669, 0.9826008005030865, 6.50891083922104;
+ -0.000100156038109612, 0.0001037779436268401, 1]
+R is 
+[0.9980704024700457, -0.05457644989749674, 0.02961220744670522;
+ 0.05354481493884546, 0.9979665375218761, 0.03457951387400768;
+ -0.03143921924039243, -0.03292720916178488, 0.9989631496658776]
+t is 
+[-0.9411804751897357;
+ -0.1569351957186449;
+ 0.2992501586739325]
+point in the first camera frame: [-0.0136303, -0.302687]
+point projected from 3D [-0.0136052, -0.303384], d=25.6005
+point in the second camera frame: [-0.00403148, -0.270058]
+point reprojected from second frame: [-0.004087139158949318, -0.269370800231741, 1]
+
+point in the first camera frame: [-0.153772, -0.0742802]
+point projected from 3D [-0.153682, -0.0751544], d=14.2517
+point in the second camera frame: [-0.180649, -0.0589251]
+point reprojected from second frame: [-0.1807818737961323, -0.05807897268507422, 1]
+
+point in the first camera frame: [-0.468612, 0.119578]
+point projected from 3D [-0.468486, 0.118859], d=13.2127
+point in the second camera frame: [-0.499328, 0.1119]
+point reprojected from second frame: [-0.4994925437603884, 0.1125835798493291, 0.9999999999999999]
+
+point in the first camera frame: [-0.226723, 0.0735125]
+point projected from 3D [-0.226743, 0.0736426], d=12.4369
+point in the second camera frame: [-0.268958, 0.08119]
+point reprojected from second frame: [-0.268931306414179, 0.08106517218934475, 1]
+
+point in the first camera frame: [-0.478211, 0.0773512]
+point projected from 3D [-0.478211, 0.0773549], d=12.9603
+point in the second camera frame: [-0.507007, 0.0715931]
+point reprojected from second frame: [-0.5070063736752759, 0.07158965497579781, 0.9999999999999999]
+
+point in the first camera frame: [0.182185, -0.154894]
+point projected from 3D [0.182255, -0.155845], d=19.9448
+point in the second camera frame: [0.170666, -0.118426]
+point reprojected from second frame: [0.1705512020000145, -0.1174880137979246, 0.9999999999999999]
+
+point in the first camera frame: [-0.535803, 0.0389635]
+point projected from 3D [-0.535904, 0.0396159], d=13.4837
+point in the second camera frame: [-0.556921, 0.0332054]
+point reprojected from second frame: [-0.5567871536956597, 0.03258522940620144, 0.9999999999999999]
+
+point in the first camera frame: [-0.530044, 0.0332054]
+point projected from 3D [-0.530137, 0.0338159], d=13.0071
+point in the second camera frame: [-0.553081, 0.0274472]
+point reprojected from second frame: [-0.5529577438740199, 0.02686709018693898, 1]
+
+point in the first camera frame: [0.412555, -0.0109405]
+point projected from 3D [0.412571, -0.0110924], d=11.3976
+point in the second camera frame: [0.354963, 0.031286]
+point reprojected from second frame: [0.3549388831558454, 0.03143511924722435, 0.9999999999999999]
+
+point in the first camera frame: [0.445191, -0.00134357]
+point projected from 3D [0.445213, -0.00154898], d=11.7005
+point in the second camera frame: [0.389518, 0.0428023]
+point reprojected from second frame: [0.3894857019062707, 0.04300433161447866, 1]
+
+point in the first camera frame: [-0.0577846, -0.0474088]
+point projected from 3D [-0.0577726, -0.0475192], d=14.4569
+point in the second camera frame: [-0.0885007, -0.0262956]
+point reprojected from second frame: [-0.08851815338288152, -0.02618838988793295, 1]
+
+point in the first camera frame: [-0.349587, -0.143378]
+point projected from 3D [-0.349755, -0.141543], d=14.2757
+point in the second camera frame: [-0.364945, -0.129942]
+point reprojected from second frame: [-0.3646949957261797, -0.1317098520464715, 1]
+
+point in the first camera frame: [0.0919562, -0.0627639]
+point projected from 3D [0.0919483, -0.0626845], d=12.5237
+point in the second camera frame: [0.0485698, -0.0347409]
+point reprojected from second frame: [0.04858167779867589, -0.03481817851338637, 1]
+
+point in the first camera frame: [0.387598, -0.0166987]
+point projected from 3D [0.387593, -0.0166488], d=12.1336
+point in the second camera frame: [0.335765, 0.0255278]
+point reprojected from second frame: [0.3357727593224504, 0.02547882891448069, 1]
+
+point in the first camera frame: [-0.154156, -0.0761996]
+point projected from 3D [-0.154213, -0.0756555], d=14.7006
+point in the second camera frame: [-0.179497, -0.0577735]
+point reprojected from second frame: [-0.1794141289934457, -0.05830058135999537, 1]
+
+point in the first camera frame: [0.198311, -0.154511]
+point projected from 3D [0.198386, -0.155532], d=19.111
+point in the second camera frame: [0.184488, -0.117658]
+point reprojected from second frame: [0.1843651832222236, -0.1166504151730639, 1]
+
+point in the first camera frame: [-0.0136303, -0.299616]
+point projected from 3D [-0.0136392, -0.299376], d=27.3023
+point in the second camera frame: [-0.00211173, -0.265067]
+point reprojected from second frame: [-0.002092180499858012, -0.2653041502225754, 0.9999999999999999]
+
+point in the first camera frame: [0.0117105, -0.297313]
+point projected from 3D [0.0116784, -0.296467], d=27.9239
+point in the second camera frame: [0.023229, -0.260461]
+point reprojected from second frame: [0.02329857599278184, -0.2612957703356157, 1]
+
+point in the first camera frame: [-0.502016, 0.0504798]
+point projected from 3D [-0.502128, 0.0511957], d=13.1105
+point in the second camera frame: [-0.527357, 0.0458733]
+point reprojected from second frame: [-0.5272082907455424, 0.04519262969656208, 1]
+
+point in the first camera frame: [0.387215, -0.0163148]
+point projected from 3D [0.387239, -0.0165445], d=11.9614
+point in the second camera frame: [0.334229, 0.025144]
+point reprojected from second frame: [0.3341935901599284, 0.02536968719593001, 1]
+
+point in the first camera frame: [0.0900365, -0.06238]
+point projected from 3D [0.0900571, -0.0625855], d=12.8352
+point in the second camera frame: [0.0485698, -0.0347409]
+point reprojected from second frame: [0.04853913478646567, -0.03454070666793309, 1]
+
+point in the first camera frame: [-0.0574006, -0.0462572]
+point projected from 3D [-0.0573811, -0.0464358], d=14.1183
+point in the second camera frame: [-0.0896525, -0.0255278]
+point reprojected from second frame: [-0.08968080196148893, -0.02535441621023737, 1]
+
+point in the first camera frame: [0.394126, -0.0163148]
+point projected from 3D [0.394169, -0.0167309], d=11.9569
+point in the second camera frame: [0.34114, 0.025144]
+point reprojected from second frame: [0.3410758975170388, 0.02555284951091066, 1]
+
+point in the first camera frame: [0.182185, -0.156814]
+point projected from 3D [0.182185, -0.156815], d=20.0006
+point in the second camera frame: [0.170666, -0.118426]
+point reprojected from second frame: [0.1706660624381986, -0.1184253589298043, 1]
+
+point in the first camera frame: [-0.476675, 0.0827256]
+point projected from 3D [-0.476559, 0.0820219], d=13.2497
+point in the second camera frame: [-0.504319, 0.0758158]
+point reprojected from second frame: [-0.504471737327723, 0.07648534473665294, 1]
+
+point in the first camera frame: [-0.227875, 0.0735125]
+point projected from 3D [-0.227882, 0.0735577], d=12.6386
+point in the second camera frame: [-0.268958, 0.08119]
+point reprojected from second frame: [-0.268948454157292, 0.08114659228761344, 1]
+
+point in the first camera frame: [-0.154156, -0.0785029]
+point projected from 3D [-0.154331, -0.0768211], d=14.7556
+point in the second camera frame: [-0.179497, -0.0577735]
+point reprojected from second frame: [-0.1792410278925891, -0.05940301734054778, 0.9999999999999999]
+
+point in the first camera frame: [0.357266, 0.023762]
+point projected from 3D [0.357242, 0.0239769], d=10.8357
+point in the second camera frame: [0.293684, 0.0624569]
+point reprojected from second frame: [0.2937198984959126, 0.06224664473367972, 1]
+
+point in the first camera frame: [0.393204, -0.00387714]
+point projected from 3D [0.393371, -0.00542068], d=11.6692
+point in the second camera frame: [0.337915, 0.0348177]
+point reprojected from second frame: [0.3376715245826108, 0.03633299174320365, 1]
+
+point in the first camera frame: [0.196928, -0.155892]
+point projected from 3D [0.197035, -0.157351], d=19.0431
+point in the second camera frame: [0.183106, -0.119962]
+point reprojected from second frame: [0.1829311488984899, -0.1185230683555419, 1]
+
+point in the first camera frame: [0.183106, -0.155892]
+point projected from 3D [0.183187, -0.157002], d=19.0221
+point in the second camera frame: [0.169284, -0.119962]
+point reprojected from second frame: [0.1691504077551423, -0.1188679432826033, 0.9999999999999999]
+
+point in the first camera frame: [0.089115, -0.0646833]
+point projected from 3D [0.0891349, -0.0648824], d=12.8111
+point in the second camera frame: [0.0476483, -0.0370441]
+point reprojected from second frame: [0.04761870763557896, -0.03685017987752368, 1]
+
+point in the first camera frame: [-0.0574006, -0.0480998]
+point projected from 3D [-0.0574633, -0.0475244], d=13.9456
+point in the second camera frame: [-0.090574, -0.0259885]
+point reprojected from second frame: [-0.09048292181609721, -0.02654686704444883, 1]
+
+point in the first camera frame: [-0.228796, 0.0735125]
+point projected from 3D [-0.228654, 0.0725575], d=12.4831
+point in the second camera frame: [-0.270263, 0.0790403]
+point reprojected from second frame: [-0.270455537816271, 0.07995684658712474, 1]
+
+point in the first camera frame: [-0.494183, 0.109443]
+point projected from 3D [-0.494096, 0.108942], d=13.2798
+point in the second camera frame: [-0.522749, 0.101152]
+point reprojected from second frame: [-0.5228626513860692, 0.1016276700075729, 1]
+
+point in the first camera frame: [0.39431, -0.00166597]
+point projected from 3D [0.39441, -0.00259478], d=11.562
+point in the second camera frame: [0.337915, 0.0381344]
+point reprojected from second frame: [0.3377678753105322, 0.03904602023398077, 1]
+
+point in the first camera frame: [0.420849, -0.00166597]
+point projected from 3D [0.420849, -0.00166729], d=11.6092
+point in the second camera frame: [0.364454, 0.0414511]
+point reprojected from second frame: [0.3644536830695861, 0.04145239355723319, 1]
+
+point in the first camera frame: [0.397627, -0.0149328]
+point projected from 3D [0.397739, -0.0159963], d=11.486
+point in the second camera frame: [0.341233, 0.0248676]
+point reprojected from second frame: [0.3410679814114931, 0.02591157107664607, 1]
+
+point in the first camera frame: [-0.0170397, -0.310119]
+point projected from 3D [-0.0170239, -0.310581], d=25.5423
+point in the second camera frame: [-0.00708769, -0.276952]
+point reprojected from second frame: [-0.007123595050014845, -0.2764970185672582, 1]
+
+point in the first camera frame: [0.0891151, -0.0646833]
+point projected from 3D [0.0891777, -0.0653109], d=12.5049
+point in the second camera frame: [0.0459897, -0.0381497]
+point reprojected from second frame: [0.04589652271215332, -0.03753863908972836, 1]
+
+point in the first camera frame: [0.19527, -0.154234]
+point projected from 3D [0.195355, -0.155396], d=19.2999
+point in the second camera frame: [0.182, -0.11775]
+point reprojected from second frame: [0.1818602702197176, -0.116604274363729, 1]
+
+point in the first camera frame: [0.182, -0.157551]
+point projected from 3D [0.182024, -0.157879], d=19.4775
+point in the second camera frame: [0.169284, -0.119962]
+point reprojected from second frame: [0.1692444691835946, -0.1196379111883431, 1]
+
+point in the first camera frame: [-0.010405, -0.300169]
+point projected from 3D [-0.0103874, -0.300648], d=26.0318
+point in the second camera frame: [-0.000452977, -0.267002]
+point reprojected from second frame: [-0.0004916906065429646, -0.2665292391515068, 1]
+
+point in the first camera frame: [-0.511323, 0.0547179]
+point projected from 3D [-0.51114, 0.0535473], d=13.1139
+point in the second camera frame: [-0.53565, 0.0458733]
+point reprojected from second frame: [-0.5358932805865094, 0.0469862946564701, 1]
+
+point in the first camera frame: [-0.494736, 0.0480845]
+point projected from 3D [-0.494872, 0.0489573], d=13.6773
+point in the second camera frame: [-0.517957, 0.0447678]
+point reprojected from second frame: [-0.5177774394646475, 0.04393678044308257, 1]
+
+point in the first camera frame: [-0.15305, -0.0746334]
+point projected from 3D [-0.153019, -0.0749384], d=14.3747
+point in the second camera frame: [-0.179589, -0.0580499]
+point reprojected from second frame: [-0.1796355987440596, -0.05775453635295995, 1]
+
+point in the first camera frame: [-0.229349, 0.0713014]
+point projected from 3D [-0.229363, 0.0713907], d=12.6378
+point in the second camera frame: [-0.270263, 0.0790403]
+point reprojected from second frame: [-0.2702450037342505, 0.07895455357237496, 1]
+
+point in the first camera frame: [-0.196176, 0.0215509]
+point projected from 3D [-0.196272, 0.0222678], d=13.9104
+point in the second camera frame: [-0.229349, 0.0348177]
+point reprojected from second frame: [-0.229216693633875, 0.03412655454002107, 1]
+
+point in the first camera frame: [-0.0568477, -0.0480998]
+point projected from 3D [-0.056788, -0.0486507], d=13.8709
+point in the second camera frame: [-0.090021, -0.0281996]
+point reprojected from second frame: [-0.09010791959414302, -0.02766500096274575, 1]
+
+point in the first camera frame: [-0.322235, -0.034833]
+point projected from 3D [-0.322267, -0.0345627], d=15.9466
+point in the second camera frame: [-0.339374, -0.0259885]
+point reprojected from second frame: [-0.3393279090661024, -0.02624882656410399, 1]
+
+point in the first camera frame: [-0.341475, -0.0295262]
+point projected from 3D [-0.341315, -0.0308335], d=14.8439
+point in the second camera frame: [-0.361379, -0.0255462]
+point reprojected from second frame: [-0.3616045716326691, -0.02428955031329786, 1]
+
+point in the first camera frame: [-0.321571, -0.0374863]
+point projected from 3D [-0.321662, -0.0367342], d=14.9515
+point in the second camera frame: [-0.342139, -0.0281996]
+point reprojected from second frame: [-0.3420105428204419, -0.02892327449896276, 1]
+
+point in the first camera frame: [-0.194185, 0.0222143]
+point projected from 3D [-0.193956, 0.0204782], d=13.1652
+point in the second camera frame: [-0.230013, 0.0301744]
+point reprojected from second frame: [-0.2303312772261765, 0.03184666676137173, 0.9999999999999999]
+
+point in the first camera frame: [0.0884516, -0.0653466]
+point projected from 3D [0.0884718, -0.065549], d=13.0997
+point in the second camera frame: [0.0486436, -0.0374863]
+point reprojected from second frame: [0.04861351400662658, -0.03728906488537477, 1]
+
+point in the first camera frame: [-0.150397, -0.0772867]
+point projected from 3D [-0.150331, -0.0779247], d=14.0257
+point in the second camera frame: [-0.178262, -0.0613666]
+point reprojected from second frame: [-0.1783586052505409, -0.06074910553584739, 1]
+
+point in the first camera frame: [0.191953, -0.156887]
+point projected from 3D [0.192062, -0.158397], d=19.7209
+point in the second camera frame: [0.18001, -0.121067]
+point reprojected from second frame: [0.1798291673813565, -0.1195775474344343, 0.9999999999999999]
+
+point in the first camera frame: [-0.226032, 0.0699747]
+point projected from 3D [-0.226028, 0.0699476], d=12.8506
+point in the second camera frame: [-0.26584, 0.0779348]
+point reprojected from second frame: [-0.2658453032260729, 0.07796088323344155, 1]
+
+point in the first camera frame: [-0.313609, -0.0255462]
+point projected from 3D [-0.313598, -0.0256349], d=15.3617
+point in the second camera frame: [-0.333513, -0.0175861]
+point reprojected from second frame: [-0.3335288995930174, -0.01750075176863355, 0.9999999999999999]
+
+point in the first camera frame: [0.0876555, -0.0685306]
+point projected from 3D [0.0875235, -0.0671986], d=13.299
+point in the second camera frame: [0.0486436, -0.0374863]
+point reprojected from second frame: [0.0488413161599708, -0.03878496523549357, 1]
+
+point in the first camera frame: [-0.151193, -0.0780827]
+point projected from 3D [-0.151301, -0.0770363], d=13.947
+point in the second camera frame: [-0.179854, -0.0589785]
+point reprojected from second frame: [-0.1796956486851767, -0.05999124584054811, 1]
+
+point in the first camera frame: [-0.342271, -0.0303222]
+point projected from 3D [-0.342153, -0.0312853], d=15.0744
+point in the second camera frame: [-0.361379, -0.0255461]
+point reprojected from second frame: [-0.3615452026768356, -0.02462004580801617, 1]
+
+point in the first camera frame: [-0.0556534, -0.0494264]
+point projected from 3D [-0.0557659, -0.0483924], d=15.0309
+point in the second camera frame: [-0.0843152, -0.0255461]
+point reprojected from second frame: [-0.08415146987361574, -0.02655130022632592, 1]
+
+point in the first camera frame: [0.10963, 0.197018]
+point projected from 3D [0.109437, 0.198151], d=10.2287
+point in the second camera frame: [0.0351089, 0.219943]
+point reprojected from second frame: [0.0353645202717045, 0.2188496933636351, 1]
+
+point in the first camera frame: [-0.314565, -0.0207701]
+point projected from 3D [-0.314458, -0.0216284], d=14.5318
+point in the second camera frame: [-0.337494, -0.0150388]
+point reprojected from second frame: [-0.3376441328695158, -0.01421338396146666, 1]
+
+point in the first camera frame: [0.0867002, -0.0666201]
+point projected from 3D [0.0869164, -0.0688064], d=11.9676
+point in the second camera frame: [0.0408413, -0.0436951]
+point reprojected from second frame: [0.04051974472002794, -0.04156944325850429, 1]
+
+point in the first camera frame: [-0.148326, -0.0780827]
+point projected from 3D [-0.148327, -0.0780814], d=13.8962
+point in the second camera frame: [-0.176988, -0.0608889]
+point reprojected from second frame: [-0.1769880859055779, -0.06089006659414284, 1]
+
+point in the first camera frame: [-0.194185, -0.123933]
+point projected from 3D [-0.194136, -0.124474], d=17.5034
+point in the second camera frame: [-0.20565, -0.106739]
+point reprojected from second frame: [-0.2057247764704717, -0.1062131096585468, 1]
+
+point in the first camera frame: [0.126827, 0.20848]
+point projected from 3D [0.127092, 0.206937], d=9.59917
+point in the second camera frame: [0.0465737, 0.225674]
+point reprojected from second frame: [0.04622351857953492, 0.2271617831601005, 1]
+
+point in the first camera frame: [-0.0508764, -0.0436951]
+point projected from 3D [-0.0506655, -0.0456362], d=13.6066
+point in the second camera frame: [-0.0852706, -0.0265014]
+point reprojected from second frame: [-0.08557759349772054, -0.02461838895403075, 0.9999999999999999]
+
+point in the first camera frame: [0.139438, 0.201603]
+point projected from 3D [0.139438, 0.201604], d=9.43376
+point in the second camera frame: [0.0568919, 0.222235]
+point reprojected from second frame: [0.05689216575363391, 0.2222343002888155, 1]
+
+point in the first camera frame: [0.118801, 0.201603]
+point projected from 3D [0.11886, 0.201259], d=9.27307
+point in the second camera frame: [0.0351089, 0.219943]
+point reprojected from second frame: [0.03503157124516751, 0.2202731608421365, 1]
+
+point in the first camera frame: [-0.149473, -0.0803751]
+point projected from 3D [-0.149289, -0.0821945], d=13.9897
+point in the second camera frame: [-0.176988, -0.0666201]
+point reprojected from second frame: [-0.1772603382839939, -0.0648593787638079, 1]
+
+point in the first camera frame: [0.0844072, -0.0734976]
+point projected from 3D [0.0844292, -0.0737226], d=12.7457
+point in the second camera frame: [0.0431343, -0.0459876]
+point reprojected from second frame: [0.04310137507901571, -0.04576850245515407, 1]
+
+point in the first camera frame: [-0.0531694, -0.0459876]
+point projected from 3D [-0.0530899, -0.0467189], d=15.2451
+point in the second camera frame: [-0.0806846, -0.0253551]
+point reprojected from second frame: [-0.08080050811609912, -0.02464399108637707, 1]
+
+point in the first camera frame: [-0.335201, -0.0391101]
+point projected from 3D [-0.335623, -0.0357175], d=15.005
+point in the second camera frame: [-0.355838, -0.0253551]
+point reprojected from second frame: [-0.3552555344082463, -0.02861836442269181, 1]
+
+point in the first camera frame: [0.0156189, -0.0322326]
+point projected from 3D [0.0157331, -0.0332662], d=14.6806
+point in the second camera frame: [-0.0164822, -0.00930757]
+point reprojected from second frame: [-0.01664811171993587, -0.008301040180739867, 0.9999999999999999]
+
+point in the first camera frame: [-0.314565, -0.0253551]
+point projected from 3D [-0.314936, -0.0224363], d=15.4565
+point in the second camera frame: [-0.335201, -0.0116001]
+point reprojected from second frame: [-0.3346896119520851, -0.01441025528824011, 1]
+
+point in the first camera frame: [-0.066927, -0.0184776]
+point projected from 3D [-0.0669789, -0.0180362], d=13.9786
+point in the second camera frame: [-0.101321, 0.00215494]
+point reprojected from second frame: [-0.1012471557217263, 0.001726971736359526, 1]
+
+point in the first camera frame: [-0.22514, 0.07093]
+point projected from 3D [-0.225075, 0.0704957], d=12.5546
+point in the second camera frame: [-0.266413, 0.0778075]
+point reprojected from second frame: [-0.2665003157030935, 0.07822453666133106, 1]
+
+point in the first camera frame: [0.111923, 0.146583]
+point projected from 3D [0.11204, 0.14583], d=10.4952
+point in the second camera frame: [0.0431343, 0.167215]
+point reprojected from second frame: [0.04297632031745339, 0.1679427294420213, 1]
+
+point in the first camera frame: [0.0500131, -0.0391101]
+point projected from 3D [0.0503337, -0.0421075], d=14.1119
+point in the second camera frame: [0.0156189, -0.0184776]
+point reprojected from second frame: [0.01515014356672389, -0.01555727778424807, 1]
+

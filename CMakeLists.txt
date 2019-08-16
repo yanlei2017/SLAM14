@@ -15,7 +15,7 @@ find_package(OpenCV 3.0 REQUIRED)#using opencv 3.x,comment to using opencv 2.x
 include_directories(${OpenCV_INCLUDE_DIRS})
 message("OpenCV_DIR : " ${OpenCV_DIR})
 message("OpenCV_INCLUDE_DIRS : " ${OpenCV_INCLUDE_DIRS})
-#message("OpenCV_LIBS : " ${OpenCV_LIBS} )
+message("OpenCV_LIBS : " ${OpenCV_LIBS} )
 
 find_package(PCL REQUIRED COMPONENT common io)
 include_directories(${PCL_INCLUDE_DIRS})
@@ -34,8 +34,10 @@ message("CMAKE_PREFIX_PATH: " ${CMAKE_PREFIX_PATH})
 
 add_subdirectory(CH2_CmakePractice CH2_CmakePractice/bin)
 add_subdirectory(CH3_Rotation CH3_Rotation/bin)
-add_subdirectory(CH4_SE3&SO3 CH4_SE3&SO3/bin)
+add_subdirectory(CH4_SE3SO3 CH4_SE3SO3/bin)
 add_subdirectory(CH5_CameraAndImage CH5_CameraAndImage/bin)
 add_subdirectory(CH6_NonlinearOptimization CH6_NonlinearOptimization/bin)
 add_subdirectory(CH7_VisualOdometer_1 CH7_VisualOdometer_1/bin)
+add_subdirectory(debug debug)
+
 

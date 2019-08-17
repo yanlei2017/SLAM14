@@ -27,7 +27,8 @@ void triangulation(const vector<KeyPoint> keypoints_1,
     }
 
     Mat pts_4d;
-    cv::triangulatePoints(T1, T2, pts_1, pts_2, pts_4d);
+    cv::triangulatePoints(T1, T2, pts_1, pts_2, pts_4d);//pts_4d is a 4*N matrix 
+    cout<<"pts_4d : \n"<<pts_4d<<endl;
     //转换成齐次坐标
     for (int i = 0; i < pts_4d.cols; i++)
     {

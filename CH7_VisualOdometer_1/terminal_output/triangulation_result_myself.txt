@@ -20,408 +20,981 @@ t is
 [-0.9411804751897357;
  -0.1569351957186449;
  0.2992501586739325]
-Point int the first camera frame: [-0.0136303, -0.302687]
-Point projected from 3D :[-0.0136052, -0.303384], d =25.6005
-Point int the second camera frame: [-0.00403148, -0.270058]
-Point projected from second :[-0.00408714015697489, -0.2693707821888702, 1]
-
-Point int the first camera frame: [-0.153772, -0.0742802]
-Point projected from 3D :[-0.153682, -0.0751544], d =14.2517
-Point int the second camera frame: [-0.180649, -0.0589251]
-Point projected from second :[-0.1807818620785354, -0.05807896957397485, 1]
-
-Point int the first camera frame: [-0.468612, 0.119578]
-Point projected from 3D :[-0.468486, 0.118859], d =13.2127
-Point int the second camera frame: [-0.499328, 0.1119]
-Point projected from second :[-0.4994925417661239, 0.1125835811622451, 1]
-
-Point int the first camera frame: [-0.226723, 0.0735125]
-Point projected from 3D :[-0.226743, 0.0736426], d =12.4369
-Point int the second camera frame: [-0.268958, 0.08119]
-Point projected from second :[-0.268931306414179, 0.08106517218934475, 1]
-
-Point int the first camera frame: [-0.478211, 0.0773512]
-Point projected from 3D :[-0.478211, 0.0773549], d =12.9603
-Point int the second camera frame: [-0.507007, 0.0715931]
-Point projected from second :[-0.5070063329752038, 0.07158965663100064, 1]
-
-Point int the first camera frame: [0.182185, -0.154894]
-Point projected from 3D :[0.182255, -0.155845], d =19.9448
-Point int the second camera frame: [0.170666, -0.118426]
-Point projected from second :[0.1705512020000145, -0.1174880137979246, 0.9999999999999999]
-
-Point int the first camera frame: [-0.535803, 0.0389635]
-Point projected from 3D :[-0.535904, 0.039616], d =13.4837
-Point int the second camera frame: [-0.556921, 0.0332054]
-Point projected from second :[-0.5567871809375321, 0.03258523008153533, 0.9999999999999999]
-
-Point int the first camera frame: [-0.530044, 0.0332054]
-Point projected from 3D :[-0.530137, 0.0338159], d =13.0071
-Point int the second camera frame: [-0.553081, 0.0274472]
-Point projected from second :[-0.5529577786861922, 0.02686709047097763, 1]
-
-Point int the first camera frame: [0.412555, -0.0109405]
-Point projected from 3D :[0.412571, -0.0110924], d =11.3976
-Point int the second camera frame: [0.354963, 0.031286]
-Point projected from second :[0.3549388533548093, 0.03143511679570669, 0.9999999999999999]
-
-Point int the first camera frame: [0.445191, -0.00134357]
-Point projected from 3D :[0.445213, -0.00154898], d =11.7005
-Point int the second camera frame: [0.389518, 0.0428023]
-Point projected from second :[0.3894857018931168, 0.04300433192933344, 1]
-
-Point int the first camera frame: [-0.0577846, -0.0474088]
-Point projected from 3D :[-0.0577726, -0.0475192], d =14.4569
-Point int the second camera frame: [-0.0885007, -0.0262956]
-Point projected from second :[-0.08851814595086384, -0.0261883864980298, 1]
-
-Point int the first camera frame: [-0.349587, -0.143378]
-Point projected from 3D :[-0.349755, -0.141543], d =14.2757
-Point int the second camera frame: [-0.364945, -0.129942]
-Point projected from second :[-0.3646949957261797, -0.1317098520464715, 1]
-
-Point int the first camera frame: [0.0919562, -0.0627639]
-Point projected from 3D :[0.0919483, -0.0626845], d =12.5237
-Point int the second camera frame: [0.0485698, -0.0347409]
-Point projected from second :[0.04858167779867589, -0.03481817851338637, 1]
-
-Point int the first camera frame: [0.387598, -0.0166987]
-Point projected from 3D :[0.387593, -0.0166488], d =12.1336
-Point int the second camera frame: [0.335765, 0.0255278]
-Point projected from second :[0.3357727592696367, 0.02547883012656996, 1]
-
-Point int the first camera frame: [-0.154156, -0.0761996]
-Point projected from 3D :[-0.154213, -0.0756555], d =14.7006
-Point int the second camera frame: [-0.179497, -0.0577735]
-Point projected from second :[-0.1794141289934457, -0.05830058135999537, 1]
-
-Point int the first camera frame: [0.198311, -0.154511]
-Point projected from 3D :[0.198386, -0.155532], d =19.111
-Point int the second camera frame: [0.184488, -0.117658]
-Point projected from second :[0.1843651832222236, -0.1166504151730639, 1]
-
-Point int the first camera frame: [-0.0136303, -0.299616]
-Point projected from 3D :[-0.0136392, -0.299376], d =27.3023
-Point int the second camera frame: [-0.00211173, -0.265067]
-Point projected from second :[-0.002092178293763099, -0.2653041092869808, 0.9999999999999999]
-
-Point int the first camera frame: [0.0117105, -0.297313]
-Point projected from 3D :[0.0116784, -0.296467], d =27.9239
-Point int the second camera frame: [0.023229, -0.260461]
-Point projected from second :[0.02329857599278184, -0.2612957703356157, 1]
-
-Point int the first camera frame: [-0.502016, 0.0504798]
-Point projected from 3D :[-0.502128, 0.0511957], d =13.1105
-Point int the second camera frame: [-0.527357, 0.0458733]
-Point projected from second :[-0.5272082818586138, 0.04519262873929094, 1]
-
-Point int the first camera frame: [0.387215, -0.0163148]
-Point projected from 3D :[0.387239, -0.0165445], d =11.9614
-Point int the second camera frame: [0.334229, 0.025144]
-Point projected from second :[0.3341935901063093, 0.02536968842503197, 1]
-
-Point int the first camera frame: [0.0900365, -0.06238]
-Point projected from 3D :[0.0900571, -0.0625855], d =12.8352
-Point int the second camera frame: [0.0485698, -0.0347409]
-Point projected from second :[0.04853913341343534, -0.03454070164292925, 1]
-
-Point int the first camera frame: [-0.0574006, -0.0462572]
-Point projected from 3D :[-0.0573811, -0.0464358], d =14.1183
-Point int the second camera frame: [-0.0896525, -0.0255278]
-Point projected from second :[-0.08968080196148893, -0.02535441621023737, 1]
-
-Point int the first camera frame: [0.394126, -0.0163148]
-Point projected from 3D :[0.394169, -0.0167309], d =11.9569
-Point int the second camera frame: [0.34114, 0.025144]
-Point projected from second :[0.3410758822323374, 0.02555284788594998, 1]
-
-Point int the first camera frame: [0.182185, -0.156814]
-Point projected from 3D :[0.182185, -0.156815], d =20.0006
-Point int the second camera frame: [0.170666, -0.118426]
-Point projected from second :[0.1706660624381986, -0.1184253589298043, 1]
-
-Point int the first camera frame: [-0.476675, 0.0827256]
-Point projected from 3D :[-0.476559, 0.0820219], d =13.2497
-Point int the second camera frame: [-0.504319, 0.0758158]
-Point projected from second :[-0.5044717343718799, 0.07648533987697161, 1]
-
-Point int the first camera frame: [-0.227875, 0.0735125]
-Point projected from 3D :[-0.227882, 0.0735577], d =12.6386
-Point int the second camera frame: [-0.268958, 0.08119]
-Point projected from second :[-0.268948450711667, 0.08114659243692687, 1]
-
-Point int the first camera frame: [-0.154156, -0.0785029]
-Point projected from 3D :[-0.154331, -0.0768211], d =14.7556
-Point int the second camera frame: [-0.179497, -0.0577735]
-Point projected from second :[-0.1792410278925891, -0.05940301734054778, 0.9999999999999999]
-
-Point int the first camera frame: [0.357266, 0.023762]
-Point projected from 3D :[0.357242, 0.0239769], d =10.8357
-Point int the second camera frame: [0.293684, 0.0624569]
-Point projected from second :[0.2937198984959126, 0.06224664473367972, 1]
-
-Point int the first camera frame: [0.393204, -0.00387714]
-Point projected from 3D :[0.393371, -0.00542068], d =11.6692
-Point int the second camera frame: [0.337915, 0.0348177]
-Point projected from second :[0.3376715245552042, 0.03633299237332398, 1]
-
-Point int the first camera frame: [0.196928, -0.155892]
-Point projected from 3D :[0.197035, -0.157351], d =19.0431
-Point int the second camera frame: [0.183106, -0.119962]
-Point projected from second :[0.1829311488984899, -0.1185230683555419, 1]
-
-Point int the first camera frame: [0.183106, -0.155892]
-Point projected from 3D :[0.183187, -0.157002], d =19.0221
-Point int the second camera frame: [0.169284, -0.119962]
-Point projected from second :[0.1691504077551423, -0.1188679432826033, 0.9999999999999999]
-
-Point int the first camera frame: [0.089115, -0.0646833]
-Point projected from 3D :[0.0891349, -0.0648824], d =12.8111
-Point int the second camera frame: [0.0476483, -0.0370441]
-Point projected from second :[0.04761870763557896, -0.03685017987752368, 1]
-
-Point int the first camera frame: [-0.0574006, -0.0480998]
-Point projected from 3D :[-0.0574633, -0.0475244], d =13.9456
-Point int the second camera frame: [-0.090574, -0.0259885]
-Point projected from second :[-0.09048292205637791, -0.02654686288184395, 1]
-
-Point int the first camera frame: [-0.228796, 0.0735125]
-Point projected from 3D :[-0.228654, 0.0725575], d =12.4831
-Point int the second camera frame: [-0.270263, 0.0790403]
-Point projected from second :[-0.2704555122264019, 0.07995684810888007, 1]
-
-Point int the first camera frame: [-0.494183, 0.109443]
-Point projected from 3D :[-0.494096, 0.108942], d =13.2798
-Point int the second camera frame: [-0.522749, 0.101152]
-Point projected from second :[-0.522862643515668, 0.1016276654586567, 1]
-
-Point int the first camera frame: [0.39431, -0.00166597]
-Point projected from 3D :[0.39441, -0.00259478], d =11.562
-Point int the second camera frame: [0.337915, 0.0381344]
-Point projected from second :[0.3377678592791746, 0.03904601884054729, 1]
-
-Point int the first camera frame: [0.420849, -0.00166597]
-Point projected from 3D :[0.420849, -0.00166729], d =11.6092
-Point int the second camera frame: [0.364454, 0.0414511]
-Point projected from second :[0.364453683049327, 0.04145239403274847, 1]
-
-Point int the first camera frame: [0.397627, -0.0149328]
-Point projected from 3D :[0.397739, -0.0159963], d =11.486
-Point int the second camera frame: [0.341233, 0.0248676]
-Point projected from second :[0.3410679813559827, 0.02591157235576974, 1]
-
-Point int the first camera frame: [-0.0170397, -0.310119]
-Point projected from 3D :[-0.0170239, -0.310581], d =25.5424
-Point int the second camera frame: [-0.00708769, -0.276952]
-Point projected from second :[-0.007123593237398906, -0.2764969914037423, 0.9999999999999999]
-
-Point int the first camera frame: [0.0891151, -0.0646833]
-Point projected from 3D :[0.0891777, -0.0653109], d =12.5049
-Point int the second camera frame: [0.0459897, -0.0381497]
-Point projected from second :[0.04589652271215332, -0.03753863908972836, 1]
-
-Point int the first camera frame: [0.19527, -0.154234]
-Point projected from 3D :[0.195355, -0.155396], d =19.2998
-Point int the second camera frame: [0.182, -0.11775]
-Point projected from second :[0.1818602722200153, -0.1166042775848698, 1]
-
-Point int the first camera frame: [0.182, -0.157551]
-Point projected from 3D :[0.182024, -0.157879], d =19.4775
-Point int the second camera frame: [0.169284, -0.119962]
-Point projected from second :[0.1692444685919223, -0.1196378991864251, 1]
-
-Point int the first camera frame: [-0.010405, -0.300169]
-Point projected from 3D :[-0.0103874, -0.300648], d =26.0318
-Point int the second camera frame: [-0.000452977, -0.267002]
-Point projected from second :[-0.0004916906065429646, -0.2665292391515068, 1]
-
-Point int the first camera frame: [-0.511323, 0.0547179]
-Point projected from 3D :[-0.51114, 0.0535473], d =13.1139
-Point int the second camera frame: [-0.53565, 0.0458733]
-Point projected from second :[-0.5358932704677902, 0.04698629344440453, 0.9999999999999999]
-
-Point int the first camera frame: [-0.494736, 0.0480845]
-Point projected from 3D :[-0.494872, 0.0489573], d =13.6773
-Point int the second camera frame: [-0.517957, 0.0447678]
-Point projected from second :[-0.5177774325268928, 0.04393678390500765, 1]
-
-Point int the first camera frame: [-0.15305, -0.0746333]
-Point projected from 3D :[-0.153019, -0.0749384], d =14.3747
-Point int the second camera frame: [-0.179589, -0.0580499]
-Point projected from second :[-0.1796356037882647, -0.05775452610259353, 1]
-
-Point int the first camera frame: [-0.229349, 0.0713014]
-Point projected from 3D :[-0.229363, 0.0713907], d =12.6378
-Point int the second camera frame: [-0.270263, 0.0790403]
-Point projected from second :[-0.2702449966520342, 0.07895455419449544, 1]
-
-Point int the first camera frame: [-0.196176, 0.0215509]
-Point projected from 3D :[-0.196272, 0.0222678], d =13.9104
-Point int the second camera frame: [-0.229349, 0.0348177]
-Point projected from second :[-0.22921669290712, 0.03412655366017624, 0.9999999999999999]
-
-Point int the first camera frame: [-0.0568477, -0.0480998]
-Point projected from 3D :[-0.056788, -0.0486507], d =13.8709
-Point int the second camera frame: [-0.090021, -0.0281996]
-Point projected from second :[-0.09010791549678344, -0.0276650011905306, 1]
-
-Point int the first camera frame: [-0.322235, -0.034833]
-Point projected from 3D :[-0.322267, -0.0345627], d =15.9466
-Point int the second camera frame: [-0.339374, -0.0259885]
-Point projected from second :[-0.3393278946767144, -0.02624882465061809, 1]
-
-Point int the first camera frame: [-0.341475, -0.0295262]
-Point projected from 3D :[-0.341315, -0.0308335], d =14.8439
-Point int the second camera frame: [-0.361379, -0.0255462]
-Point projected from second :[-0.3616045534038854, -0.02428954850753004, 1]
-
-Point int the first camera frame: [-0.321571, -0.0374863]
-Point projected from 3D :[-0.321662, -0.0367342], d =14.9515
-Point int the second camera frame: [-0.342139, -0.0281996]
-Point projected from second :[-0.3420105271580465, -0.02892327212696744, 1]
-
-Point int the first camera frame: [-0.194185, 0.0222143]
-Point projected from 3D :[-0.193956, 0.0204782], d =13.1652
-Point int the second camera frame: [-0.230013, 0.0301744]
-Point projected from second :[-0.2303312756708975, 0.03184666742981954, 0.9999999999999999]
-
-Point int the first camera frame: [0.0884516, -0.0653466]
-Point projected from 3D :[0.0884718, -0.065549], d =13.0997
-Point int the second camera frame: [0.0486436, -0.0374863]
-Point projected from second :[0.04861351400662658, -0.03728906488537477, 1]
-
-Point int the first camera frame: [-0.150397, -0.0772867]
-Point projected from 3D :[-0.150331, -0.0779247], d =14.0257
-Point int the second camera frame: [-0.178262, -0.0613666]
-Point projected from second :[-0.1783586052505409, -0.06074910553584739, 1]
-
-Point int the first camera frame: [0.191953, -0.156887]
-Point projected from 3D :[0.192062, -0.158397], d =19.7209
-Point int the second camera frame: [0.18001, -0.121067]
-Point projected from second :[0.1798291673813565, -0.1195775474344343, 0.9999999999999999]
-
-Point int the first camera frame: [-0.226032, 0.0699747]
-Point projected from 3D :[-0.226028, 0.0699476], d =12.8506
-Point int the second camera frame: [-0.26584, 0.0779348]
-Point projected from second :[-0.2658453000614988, 0.0779608836116279, 1]
-
-Point int the first camera frame: [-0.313609, -0.0255462]
-Point projected from 3D :[-0.313598, -0.0256349], d =15.3617
-Point int the second camera frame: [-0.333513, -0.0175861]
-Point projected from second :[-0.3335288854866147, -0.01750074896610833, 0.9999999999999999]
-
-Point int the first camera frame: [0.0876555, -0.0685306]
-Point projected from 3D :[0.0875235, -0.0671986], d =13.299
-Point int the second camera frame: [0.0486436, -0.0374863]
-Point projected from second :[0.0488413161599708, -0.03878496523549357, 1]
-
-Point int the first camera frame: [-0.151193, -0.0780827]
-Point projected from 3D :[-0.151301, -0.0770362], d =13.947
-Point int the second camera frame: [-0.179854, -0.0589785]
-Point projected from second :[-0.1796956512789495, -0.05999124041171424, 1]
-
-Point int the first camera frame: [-0.342271, -0.0303222]
-Point projected from 3D :[-0.342153, -0.0312853], d =15.0744
-Point int the second camera frame: [-0.361379, -0.0255461]
-Point projected from second :[-0.3615452026768356, -0.02462004580801617, 1]
-
-Point int the first camera frame: [-0.0556534, -0.0494264]
-Point projected from 3D :[-0.0557659, -0.0483924], d =15.0309
-Point int the second camera frame: [-0.0843152, -0.0255461]
-Point projected from second :[-0.08415146987361574, -0.02655130022632592, 1]
-
-Point int the first camera frame: [0.10963, 0.197018]
-Point projected from 3D :[0.109437, 0.198151], d =10.2287
-Point int the second camera frame: [0.0351089, 0.219943]
-Point projected from second :[0.0353645202717045, 0.2188496933636351, 1]
-
-Point int the first camera frame: [-0.314565, -0.0207701]
-Point projected from 3D :[-0.314458, -0.0216284], d =14.5318
-Point int the second camera frame: [-0.337494, -0.0150388]
-Point projected from second :[-0.3376441174439299, -0.01421338142371366, 1]
-
-Point int the first camera frame: [0.0867002, -0.0666201]
-Point projected from 3D :[0.0869164, -0.0688064], d =11.9676
-Point int the second camera frame: [0.0408413, -0.0436951]
-Point projected from second :[0.04051974472002794, -0.04156944325850429, 1]
-
-Point int the first camera frame: [-0.148326, -0.0780827]
-Point projected from 3D :[-0.148327, -0.0780814], d =13.8962
-Point int the second camera frame: [-0.176988, -0.0608889]
-Point projected from second :[-0.176988071617533, -0.06089006853659572, 1]
-
-Point int the first camera frame: [-0.194185, -0.123933]
-Point projected from 3D :[-0.194136, -0.124474], d =17.5034
-Point int the second camera frame: [-0.20565, -0.106739]
-Point projected from second :[-0.2057247764704717, -0.1062131096585468, 1]
-
-Point int the first camera frame: [0.126827, 0.20848]
-Point projected from 3D :[0.127092, 0.206937], d =9.59917
-Point int the second camera frame: [0.0465737, 0.225674]
-Point projected from second :[0.04622351857953492, 0.2271617831601005, 1]
-
-Point int the first camera frame: [-0.0508764, -0.0436951]
-Point projected from 3D :[-0.0506655, -0.0456362], d =13.6066
-Point int the second camera frame: [-0.0852706, -0.0265014]
-Point projected from second :[-0.08557758963226378, -0.02461838939535471, 1]
-
-Point int the first camera frame: [0.139438, 0.201603]
-Point projected from 3D :[0.139438, 0.201604], d =9.43376
-Point int the second camera frame: [0.0568919, 0.222235]
-Point projected from second :[0.05689216575363391, 0.2222343002888155, 1]
-
-Point int the first camera frame: [0.118801, 0.201603]
-Point projected from 3D :[0.11886, 0.201259], d =9.27307
-Point int the second camera frame: [0.0351089, 0.219943]
-Point projected from second :[0.03503157191790224, 0.2202731481837946, 1]
-
-Point int the first camera frame: [-0.149473, -0.0803751]
-Point projected from 3D :[-0.149289, -0.0821945], d =13.9897
-Point int the second camera frame: [-0.176988, -0.0666201]
-Point projected from second :[-0.1772603382839939, -0.0648593787638079, 1]
-
-Point int the first camera frame: [0.0844072, -0.0734976]
-Point projected from 3D :[0.0844292, -0.0737226], d =12.7457
-Point int the second camera frame: [0.0431343, -0.0459876]
-Point projected from second :[0.04310137507901571, -0.04576850245515407, 1]
-
-Point int the first camera frame: [-0.0531694, -0.0459876]
-Point projected from 3D :[-0.0530899, -0.0467189], d =15.2451
-Point int the second camera frame: [-0.0806846, -0.0253551]
-Point projected from second :[-0.08080050811609912, -0.02464399108637707, 1]
-
-Point int the first camera frame: [-0.335201, -0.0391101]
-Point projected from 3D :[-0.335623, -0.0357175], d =15.005
-Point int the second camera frame: [-0.355838, -0.0253551]
-Point projected from second :[-0.3552555475904371, -0.02861836372107482, 0.9999999999999999]
-
-Point int the first camera frame: [0.0156189, -0.0322326]
-Point projected from 3D :[0.0157331, -0.0332662], d =14.6806
-Point int the second camera frame: [-0.0164822, -0.00930757]
-Point projected from second :[-0.01664811171993587, -0.008301040180739867, 0.9999999999999999]
-
-Point int the first camera frame: [-0.314565, -0.0253551]
-Point projected from 3D :[-0.314936, -0.0224363], d =15.4566
-Point int the second camera frame: [-0.335201, -0.0116001]
-Point projected from second :[-0.3346896273980075, -0.01441025446756329, 1]
-
-Point int the first camera frame: [-0.066927, -0.0184776]
-Point projected from 3D :[-0.0669789, -0.0180362], d =13.9786
-Point int the second camera frame: [-0.101321, 0.00215494]
-Point projected from second :[-0.1012471557217263, 0.001726971736359526, 1]
-
-Point int the first camera frame: [-0.22514, 0.07093]
-Point projected from 3D :[-0.225075, 0.0704957], d =12.5546
-Point int the second camera frame: [-0.266413, 0.0778075]
-Point projected from second :[-0.2665003157030935, 0.07822453666133106, 1]
-
-Point int the first camera frame: [0.111923, 0.146583]
-Point projected from 3D :[0.11204, 0.14583], d =10.4952
-Point int the second camera frame: [0.0431343, 0.167215]
-Point projected from second :[0.04297632031745339, 0.1679427294420213, 1]
-
-Point int the first camera frame: [0.0500131, -0.0391101]
-Point projected from 3D :[0.0503337, -0.0421075], d =14.1119
-Point int the second camera frame: [0.0156189, -0.0184776]
-Point projected from second :[0.01515014356672389, -0.01555727778424807, 1]
+pts_4d : 
+[0.013008997, 0.15112025, 0.42082566, 0.21988975, 0.42933857, -0.1770197, 0.47105983, 0.46710405, -0.38011903, -0.40549016, 0.05747506, 0.32653567, -0.09109775, -0.36029109, 0.15164649, -0.19212031, 0.013057108, -0.011189384, 0.44722983, -0.35997409, -0.089253105, 0.057083216, -0.36556047, -0.17692998, 0.42804369, 0.22096317, 0.15174991, -0.33507067, -0.3649033, -0.19080733, -0.17784585, -0.088332608, 0.057158258, 0.22167389, 0.43988433, -0.36572093, -0.38668019, -0.36833486, 0.016244372, -0.08835914, -0.18930002, -0.17673981, 0.0099403095, 0.45357281, 0.44216028, 0.15049146, 0.2223611, 0.19207427, 0.056484129, 0.30602291, 0.32222706, 0.30540621, 0.1898421, -0.087688208, 0.14785632, -0.18614839, 0.21932696, 0.29856518, -0.086753488, 0.14879517, 0.32295164, 0.055492487, -0.10625473, 0.29926842, -0.086090818, 0.14591868, 0.18887883, -0.12287436, 0.050412774, -0.13471623, -0.11510745, 0.14680363, -0.083649866, 0.052844599, 0.31736651, -0.015686123, 0.2997523, 0.066648804, 0.21840934, -0.10971145, -0.050100584;
+ 0.29009032, 0.073901691, -0.10676724, -0.071416914, -0.069449261, 0.15136912, -0.034822404, -0.02979522, 0.010219877, 0.0014107758, 0.047274478, 0.13214645, 0.062104687, 0.015476045, 0.074396454, 0.15062054, 0.28659847, 0.28405398, -0.045598414, 0.015379683, 0.062026761, 0.046194721, 0.015516597, 0.15229152, -0.073671691, -0.071324527, 0.075536095, -0.022488903, 0.0050283992, 0.15237799, 0.15242398, 0.064298391, 0.047272131, -0.070342705, -0.096989401, 0.0024060314, 0.0015319197, 0.014813719, 0.29635847, 0.064711481, 0.15057965, 0.15329544, 0.28770867, -0.047516562, -0.043742567, 0.073700644, -0.069211483, -0.0217916, 0.048390314, 0.032820527, 0.029109135, 0.034877762, -0.02004387, 0.06496843, 0.076641887, 0.15352011, -0.067873932, 0.024405997, 0.066607431, 0.075760297, 0.029529609, 0.048155118, -0.19238868, 0.020583699, 0.068152837, 0.076813854, 0.1211031, -0.20007002, 0.045408532, -0.19477722, -0.19490558, 0.08082591, 0.073042132, 0.046503101, 0.033774558, 0.033166956, 0.021354575, 0.017947339, -0.068407796, -0.14279942, 0.041912444;
+ -0.95618165, -0.98333138, -0.89826751, -0.96977723, -0.89780086, -0.97127748, -0.87899965, -0.88110012, -0.92134172, -0.91077799, -0.99484986, -0.93361384, -0.99075013, -0.92955995, -0.9833585, -0.96841902, -0.95731986, -0.95812881, -0.89066887, -0.92959255, -0.99107236, -0.99480784, -0.92742044, -0.97115672, -0.89819574, -0.96964014, -0.98327297, -0.93793881, -0.92763197, -0.96839428, -0.97084135, -0.9909991, -0.99469131, -0.96947461, -0.89028108, -0.92725968, -0.91881019, -0.92607206, -0.9542076, -0.99082136, -0.96900487, -0.97096777, -0.95696056, -0.88737541, -0.89348382, -0.98348337, -0.96947438, -0.97861296, -0.99464869, -0.94959295, -0.94407487, -0.94946194, -0.97879046, -0.99114341, -0.98353809, -0.96920842, -0.97035402, -0.95206201, -0.99120241, -0.983437, -0.94388008, -0.9950974, -0.97092044, -0.95169622, -0.99050164, -0.98376602, -0.97291785, -0.96681416, -0.99501204, -0.9661392, -0.96842939, -0.98334891, -0.99076992, -0.99538028, -0.94560367, -0.99701631, -0.95178813, -0.99507213, -0.97038317, -0.97921729, -0.99536836;
+ -0.037350163, -0.068997316, -0.067985058, -0.07797572, -0.0692733, -0.048698299, -0.065189749, -0.067739882, -0.080836348, -0.077840775, -0.068814807, -0.065399006, -0.079110235, -0.0766102, -0.066892184, -0.050673421, -0.035063766, -0.034312148, -0.067935579, -0.077716351, -0.077215262, -0.070462085, -0.077563398, -0.048556287, -0.067789868, -0.07672067, -0.066637196, -0.086560354, -0.079493746, -0.050852764, -0.051037651, -0.077354945, -0.071326368, -0.077663116, -0.067040458, -0.080198847, -0.07914485, -0.08062619, -0.037357859, -0.079234667, -0.050207898, -0.049850624, -0.036761243, -0.06766665, -0.06532608, -0.068417825, -0.076712191, -0.070351087, -0.071707323, -0.059548471, -0.063600346, -0.063502714, -0.074347004, -0.075661391, -0.070123792, -0.04914635, -0.075510509, -0.061976481, -0.074532241, -0.070512682, -0.062614866, -0.066203289, -0.094921224, -0.065490685, -0.082765296, -0.070794098, -0.05558442, -0.10071854, -0.073127307, -0.10241292, -0.10443457, -0.07029096, -0.077733792, -0.06529171, -0.063019328, -0.067914061, -0.061578304, -0.071185194, -0.077293292, -0.093301885, -0.070534013]
+Points after triangulation : 
+[-0.3482982814311981, -7.766775608062744, 25.60046768188477;
+ -2.190233707427979, -1.071080684661865, 14.25173377990723;
+ -6.189972877502441, 1.570451617240906, 13.21271896362305;
+ -2.819977045059204, 0.9158865809440613, 12.43691253662109;
+ -6.197749614715576, 1.002540111541748, 12.96027278900146;
+ 3.63502836227417, -3.108304023742676, 19.94479179382324;
+ -7.225980281829834, 0.5341699719429016, 13.48370933532715;
+ -6.895554542541504, 0.4398475289344788, 13.00710964202881;
+ 4.702327728271484, -0.1264267414808273, 11.39761638641357;
+ 5.209225654602051, -0.01812386699020863, 11.70052623748779;
+ -0.8352136015892029, -0.686981201171875, 14.45691585540771;
+ -4.992976188659668, -2.020618677139282, 14.27565765380859;
+ 1.151529312133789, -0.7850398421287537, 12.52366638183594;
+ 4.7029128074646, -0.2020102441310883, 12.13363170623779;
+ -2.267028570175171, -1.112184524536133, 14.70064830780029;
+ 3.791342735290527, -2.972377300262451, 19.11098480224609;
+ -0.3723818063735962, -8.173636436462402, 27.30225563049316;
+ 0.3261056244373322, -8.278525352478027, 27.92389488220215;
+ -6.583146095275879, 0.6712008118629456, 13.11049270629883;
+ 4.631896495819092, -0.1978950649499893, 11.961350440979;
+ 1.1558997631073, -0.8032966256141663, 12.83518695831299;
+ -0.8101267218589783, -0.6555968523025513, 14.11834239959717;
+ 4.713053703308105, -0.2000505030155182, 11.95693397521973;
+ 3.64381217956543, -3.136391401290894, 20.00063896179199;
+ -6.314272403717041, 1.08676552772522, 13.24970436096191;
+ -2.880099534988403, 0.9296650886535645, 12.63857746124268;
+ -2.277255296707153, -1.133542537689209, 14.75561714172363;
+ 3.870948553085327, 0.2598060667514801, 10.83566284179688;
+ 4.590339660644531, -0.06325528025627136, 11.66924476623535;
+ 3.752152442932129, -2.996454477310181, 19.04310035705566;
+ 3.484601020812988, -2.98650074005127, 19.02206230163574;
+ 1.141912817955017, -0.8312124013900757, 12.81106281280518;
+ -0.8013622164726257, -0.6627581119537354, 13.945631980896;
+ -2.854300737380981, 0.9057414531707764, 12.48307704925537;
+ -6.56147575378418, 1.446729421615601, 13.27975845336914;
+ 4.560176849365234, -0.03000082261860371, 11.56200790405273;
+ 4.885727882385254, -0.01935589872300625, 11.60922336578369;
+ 4.568427085876465, -0.183733344078064, 11.48599529266357;
+ -0.4348314702510834, -7.932961940765381, 25.5423526763916;
+ 1.115157604217529, -0.816706657409668, 12.50489711761475;
+ 3.770323514938354, -2.999122619628906, 19.29984855651855;
+ 3.545387983322144, -3.075095653533936, 19.4775447845459;
+ -0.2704018950462341, -7.826413154602051, 26.03177833557129;
+ -6.703048229217529, 0.7022153735160828, 13.11392593383789;
+ -6.768510818481445, 0.6696034669876099, 13.67729187011719;
+ -2.199594497680664, -1.077214121818542, 14.37466621398926;
+ -2.898641109466553, 0.902222752571106, 12.63781356811523;
+ -2.730224609375, 0.3097549676895142, 13.91041660308838;
+ -0.7877037525177002, -0.6748308539390564, 13.87094974517822;
+ -5.139055728912354, -0.5511565208435059, 15.94655513763428;
+ -5.06643533706665, -0.4576883018016815, 14.84386348724365;
+ -4.809340953826904, -0.5492326021194458, 14.95151710510254;
+ -2.553460121154785, 0.2695989012718201, 13.16516399383545;
+ 1.158955812454224, -0.8586734533309937, 13.09972476959229;
+ -2.108504295349121, -1.09295129776001, 14.02574062347412;
+ 3.787634134292603, -3.123733758926392, 19.72086334228516;
+ -2.904588460922241, 0.8988673686981201, 12.85058212280273;
+ -4.817394733428955, -0.3937945067882538, 15.36166572570801;
+ 1.163972616195679, -0.8936727046966553, 13.29897499084473;
+ -2.110190153121948, -1.074420809745789, 13.9469518661499;
+ -5.157747268676758, -0.4716069996356964, 15.07437705993652;
+ -0.8382134437561035, -0.7273826003074646, 15.0309362411499;
+ 1.119399070739746, 2.026824712753296, 10.22869682312012;
+ -4.569633483886719, -0.3142996430397034, 14.53178024291992;
+ 1.040180087089539, -0.8234469890594482, 11.96759605407715;
+ -2.061170101165771, -1.085031867027283, 13.89615821838379;
+ -3.398053407669067, -2.178723812103271, 17.50342750549316;
+ 1.219977498054504, 1.986426949501038, 9.599167823791504;
+ -0.6893836855888367, -0.620951771736145, 13.60657215118408;
+ 1.315422177314758, 1.901881337165833, 9.433762550354004;
+ 1.1021968126297, 1.866293549537659, 9.273072242736816;
+ -2.088513612747192, -1.149876356124878, 13.98969268798828;
+ 1.076106905937195, -0.9396445155143738, 12.74567890167236;
+ -0.8093615174293518, -0.7122359275817871, 15.24512481689453;
+ -5.036018848419189, -0.5359396934509277, 15.00497913360596;
+ 0.230970174074173, -0.4883665442466736, 14.68055820465088;
+ -4.867823600769043, -0.3467873334884644, 15.45655059814453;
+ -0.9362733960151672, -0.252121776342392, 13.97863864898682;
+ -2.825721979141235, 0.8850418329238892, 12.55455875396729;
+ 1.175876021385193, 1.5305095911026, 10.49515056610107;
+ 0.7103039026260376, -0.5942160487174988, 14.111891746521]
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0136303, -0.302687]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.0136052, -0.303384], 空间位置深度 d =25.6005
+pt2_trans before 归一化:
+[-0.1068372815502164, -7.041315196642318, 26.13986245807934]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.00403148, -0.270058]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.00408714015697489, -0.2693707821888702, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.153772, -0.0742802]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.153682, -0.0751544], 空间位置深度 d =14.2517
+pt2_trans before 归一化:
+[-2.646706834577385, -0.8502955105632937, 14.64033395909818]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.180649, -0.0589251]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.1807818620785354, -0.05807896957397485, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.468612, 0.119578]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.468486, 0.118859], 空间位置深度 d =13.2127
+pt2_trans before 归一化:
+[-6.813661095436234, 1.535771413598519, 13.64116683573341]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.499328, 0.1119]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.4994925417661239, 0.1125835811622451, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.226723, 0.0735125]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.226743, 0.0736426], 空间位置深度 d =12.4369
+pt2_trans before 归一化:
+[-3.437417503573996, 1.036156204829271, 12.78176776592925]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.268958, 0.08119]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.268931306414179, 0.08106517218934475, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.478211, 0.0773512]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.478211, 0.0773549], 空间位置深度 d =12.9603
+pt2_trans before 归一化:
+[-6.797903721331471, 0.9598688646844231, 13.40792664549209]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.507007, 0.0715931]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.5070063329752038, 0.07158965663100064, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.182185, -0.154894]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.182255, -0.155845], 空间位置深度 d =19.9448
+pt2_trans before 归一化:
+[3.447083256233293, -2.374600474354308, 20.21142751156336]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.170666, -0.118426]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.1705512020000145, -0.1174880137979246, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.535803, 0.0389635]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.535904, 0.039616], 空间位置深度 d =13.4837
+pt2_trans before 归一化:
+[-7.783088226037958, 0.4554948987210776, 13.97856935738463]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.556921, 0.0332054]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.5567871809375321, 0.03258523008153533, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.530044, 0.0332054]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.530137, 0.0338159], 空间位置深度 d =13.0071
+pt2_trans before 归一化:
+[-7.462265460341921, 0.3625762562158243, 13.49518127418697]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.553081, 0.0274472]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.5529577786861922, 0.02686709047097763, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.412555, -0.0109405]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.412571, -0.0110924], 空间位置深度 d =11.3976
+pt2_trans before 归一化:
+[4.096482156666819, 0.3628044487922641, 11.54137429010014]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.354963, 0.031286]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.3549388533548093, 0.03143511679570669, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.445191, -0.00134357]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.445213, -0.00154898], 空间位置深度 d =11.7005
+pt2_trans before 归一化:
+[4.605461016955067, 0.5085033245073824, 11.82446748255448]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.389518, 0.0428023]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.3894857018931168, 0.04300433192933344, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0577846, -0.0474088]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.0577726, -0.0475192], 空间位置深度 d =14.4569
+pt2_trans before 归一化:
+[-1.309188264220154, -0.3873276817288281, 14.79005519328071]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0885007, -0.0262956]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.08851814595086384, -0.0261883864980298, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.349587, -0.143378]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.349755, -0.141543], 空间位置深度 d =14.2757
+pt2_trans before 归一化:
+[-5.391510299451082, -1.947147704710753, 14.78361469895006]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.364945, -0.129942]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.3646949957261797, -0.1317098520464715, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0919562, -0.0627639]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.0919483, -0.0626845], 空间位置深度 d =12.5237
+pt2_trans before 归一化:
+[0.6218249433314227, -0.4456579694655983, 12.79957736141362]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0485698, -0.0347409]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.04858167779867589, -0.03481817851338637, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.387598, -0.0166987]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.387593, -0.0166488], 空间位置深度 d =12.1336
+pt2_trans before 归一化:
+[4.122986224472625, 0.3128570222790714, 12.27909683156199]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.335765, 0.0255278]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.3357727592696367, 0.02547883012656996, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.154156, -0.0761996]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.154213, -0.0756555], 空间位置深度 d =14.7006
+pt2_trans before 归一化:
+[-2.707816862363805, -0.8799044878900009, 15.09255083507234]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.179497, -0.0577735]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.1794141289934457, -0.05830058135999537, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.198311, -0.154511]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.198386, -0.155532], 空间位置深度 d =19.111
+pt2_trans before 归一化:
+[3.570986741802737, -2.259412969024099, 19.36909496354562]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.184488, -0.117658]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.1843651832222236, -0.1166504151730639, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0136303, -0.299616]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.0136392, -0.299376], 空间位置深度 d =27.3023
+pt2_trans before 归一化:
+[-0.05827561760147026, -7.3897912367202, 27.85403986610182]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.00211173, -0.265067]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.002092178293763099, -0.2653041092869808, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0117105, -0.297313]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.0116784, -0.296467], 空间位置深度 d =27.9239
+pt2_trans before 归一化:
+[0.6629965887366118, -7.435570501711756, 28.45652837074744]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.023229, -0.260461]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.02329857599278184, -0.2612957703356157, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.502016, 0.0504798]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.502128, 0.0511957], 空间位置深度 d =13.1105
+pt2_trans before 归一化:
+[-7.160024875753203, 0.6137618795236979, 13.58101745008887]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.527357, 0.0458733]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.5272082818586138, 0.04519262873929094, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.387215, -0.0163148]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.387239, -0.0165445], 空间位置深度 d =11.9614
+pt2_trans before 归一化:
+[4.046780725290234, 0.3072038757307688, 12.10909139221648]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.334229, 0.025144]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.3341935901063093, 0.02536968842503197, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0900365, -0.06238]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.0900571, -0.0625855], 空间位置深度 d =12.8352
+pt2_trans before 归一化:
+[0.6364081634572667, -0.4528713833819191, 13.11123867903898]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0485698, -0.0347409]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.04853913341343534, -0.03454070164292925, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0574006, -0.0462572]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.0573811, -0.0464358], 空间位置深度 d =14.1183
+pt2_trans before 归一化:
+[-1.295888545824133, -0.3663715849353542, 14.45001067653942]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0896525, -0.0255278]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.08968080196148893, -0.02535441621023737, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.394126, -0.0163148]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.394169, -0.0167309], 空间位置深度 d =11.9569
+pt2_trans before 归一化:
+[4.127768186889485, 0.3092456490846258, 12.10219895899204]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.34114, 0.025144]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.3410758822323374, 0.02555284788594998, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.182185, -0.156814]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.182185, -0.156815], 空间位置深度 d =20.0006
+pt2_trans before 归一化:
+[3.459036791569119, -2.400229241483256, 20.26786545697509]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.170666, -0.118426]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.1706660624381986, -0.1184253589298043, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.476675, 0.0827256]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.476559, 0.0820219], 空间位置深度 d =13.2497
+pt2_trans before 归一化:
+[-6.91022768470301, 1.047692223529322, 13.69794819784495]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.504319, 0.0758158]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.5044717343718799, 0.07648533987697161, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.227875, 0.0735125]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.227882, 0.0735577], 空间位置深度 d =12.6386
+pt2_trans before 归一化:
+[-3.492204219748185, 1.053660921922274, 12.98466011054323]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.268958, 0.08119]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.268948450711667, 0.08114659243692687, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.154156, -0.0785029]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.154331, -0.0768211], 空间位置深度 d =14.7556
+pt2_trans before 归一化:
+[-2.715230462381531, -0.8998658629490178, 15.14848745460578]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.179497, -0.0577735]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.1792410278925891, -0.05940301734054778, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.357266, 0.023762]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.357242, 0.0239769], 空间位置深度 d =10.8357
+pt2_trans before 归一化:
+[3.228987308237695, 0.6843037426292371, 10.9934237509027]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.293684, 0.0624569]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.2937198984959126, 0.06224664473367972, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.393204, -0.00387714]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.393371, -0.00542068], 空间位置深度 d =11.6692
+pt2_trans before 归一化:
+[3.989306022781764, 0.429243850192909, 11.81416178943917]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.337915, 0.0348177]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.3376715245552042, 0.03633299237332398, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.196928, -0.155892]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.197035, -0.157351], 空间位置深度 d =19.0431
+pt2_trans before 归一化:
+[3.531175909509107, -2.287887034101744, 19.3033058108031]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.183106, -0.119962]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.1829311488984899, -0.1185230683555419, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.183106, -0.155892]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.183187, -0.157002], 空间位置深度 d =19.0221
+pt2_trans before 归一化:
+[3.26297453104905, -2.293007014507336, 19.29037342772738]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.169284, -0.119962]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.1691504077551423, -0.1188679432826033, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.089115, -0.0646833]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.0891349, -0.0648824], 空间位置深度 d =12.8111
+pt2_trans before 归一化:
+[0.6232573822165335, -0.4823135230892653, 13.08849847388253]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0476483, -0.0370441]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.04761870763557896, -0.03685017987752368, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0574006, -0.0480998]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.0574633, -0.0475244], 空间位置深度 d =13.9456
+pt2_trans before 归一化:
+[-1.291864453023956, -0.3790212309344615, 14.27743958378161]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.090574, -0.0259885]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.09048292205637791, -0.02654686288184395, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.228796, 0.0735125]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.228654, 0.0725575], 空间位置深度 d =12.4831
+pt2_trans before 归一化:
+[-3.469754246801426, 1.025790197444385, 12.82929757370539]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.270263, 0.0790403]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.2704555122264019, 0.07995684810888007, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.494183, 0.109443]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.494096, 0.108942], 空间位置深度 d =13.2798
+pt2_trans before 归一化:
+[-7.175709615197293, 1.394726942621756, 13.72389040255133]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.522749, 0.101152]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.522862643515668, 0.1016276654586567, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.39431, -0.00166597]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.39441, -0.00259478], 空间位置深度 d =11.562
+pt2_trans before 归一化:
+[3.954210983138592, 0.4571074254271059, 11.70688943458746]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.337915, 0.0381344]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.3377678592791746, 0.03904601884054729, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.420849, -0.00166597]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.420849, -0.00166729], 空间位置深度 d =11.6092
+pt2_trans before 归一化:
+[4.27995102558124, 0.4867949607995794, 11.74347036301447]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.364454, 0.0414511]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.364453683049327, 0.04145239403274847, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.397627, -0.0149328]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.397739, -0.0159963], 空间位置深度 d =11.486
+pt2_trans before 归一化:
+[3.968584574051856, 0.3015007915187654, 11.63575823879442]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.341233, 0.0248676]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.3410679813559827, 0.02591157235576974, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0170397, -0.310119]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.0170239, -0.310581], 空间位置深度 d =25.5424
+pt2_trans before 归一化:
+[-0.1858545496807316, -7.213806587893194, 26.09000029718065]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.00708769, -0.276952]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.007123593237398906, -0.2764969914037423, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0891151, -0.0646833]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.0891777, -0.0653109], 空间位置深度 d =12.5049
+pt2_trans before 归一化:
+[0.5866958811847707, -0.4798569398677647, 12.78301375605988]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0459897, -0.0381497]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.04589652271215332, -0.03753863908972836, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.19527, -0.154234]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.195355, -0.155396], 空间位置深度 d =19.2998
+pt2_trans before 归一化:
+[3.557060417339313, -2.280698556239911, 19.55930437097316]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.182, -0.11775]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.1818602722200153, -0.1166042775848698, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.182, -0.157551]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.182024, -0.157879], 空间位置深度 d =19.4775
+pt2_trans before 归一化:
+[3.34196723681463, -2.362416584062276, 19.74638973207858]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.169284, -0.119962]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.1692444685919223, -0.1196378991864251, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.010405, -0.300169]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.0103874, -0.300648], 空间位置深度 d =26.0318
+pt2_trans before 归一化:
+[-0.01306433771836168, -7.081746012141901, 26.57024060356969]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.000452977, -0.267002]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.0004916906065429646, -0.2665292391515068, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.511323, 0.0547179]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.51114, 0.0535473], 空间位置深度 d =13.1139
+pt2_trans before 归一化:
+[-7.28128664605742, 0.6384119559960794, 13.58719552440258]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.53565, 0.0458733]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.5358932704677902, 0.04698629344440453, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.494736, 0.0480845]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.494872, 0.0489573], 空间位置深度 d =13.6773
+pt2_trans before 归一化:
+[-7.328160567814566, 0.6218421025380314, 14.15310924628595]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.517957, 0.0447678]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.5177774325268928, 0.04393678390500765, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.15305, -0.0746333]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.153019, -0.0749384], 空间位置深度 d =14.3747
+pt2_trans before 归一化:
+[-2.652074520306674, -0.8526667535775072, 14.76363518355001]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.179589, -0.0580499]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.1796356037882647, -0.05775452610259353, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.229349, 0.0713014]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.229363, 0.0713907], 空间位置深度 d =12.6378
+pt2_trans before 归一化:
+[-3.509234931731502, 1.025255168573445, 12.98538354162379]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.270263, 0.0790403]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.2702449966520342, 0.07895455419449544, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.196176, 0.0215509]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.196272, 0.0222678], 空间位置深度 d =13.9104
+pt2_trans before 归一化:
+[-3.271124034256128, 0.4870159693359155, 14.27088050511926]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.229349, 0.0348177]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.22921669290712, 0.03412655366017624, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0568477, -0.0480998]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.056788, -0.0486507], 空间位置深度 d =13.8709
+pt2_trans before 归一化:
+[-1.279784962865912, -0.3929205589332766, 14.20280289262263]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.090021, -0.0281996]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.09010791549678344, -0.0276650011905306, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.322235, -0.034833]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.322267, -0.0345627], 空间位置深度 d =15.9466
+pt2_trans before 归一化:
+[-5.56802702981984, -0.4307166237980149, 16.40898705107822]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.339374, -0.0259885]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.3393278946767144, -0.02624882465061809, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.341475, -0.0295262]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.341315, -0.0308335], 空间位置深度 d =14.8439
+pt2_trans before 归一化:
+[-5.533301063577527, -0.3716805646537795, 15.30207795087481]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.361379, -0.0255462]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.3616045534038854, -0.02428954850753004, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.321571, -0.0374863]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.321662, -0.0367342], 空间位置深度 d =14.9515
+pt2_trans before 归一化:
+[-5.268518744840526, -0.4455500321270341, 15.40455139968803]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.342139, -0.0281996]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.3420105271580465, -0.02892327212696744, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.194185, 0.0222143]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.193956, 0.0204782], 空间位置深度 d =13.1652
+pt2_trans before 归一化:
+[-3.114577629674236, 0.4306359076407599, 13.52216550098222]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.230013, 0.0301744]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.2303312756708975, 0.03184666742981954, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0884516, -0.0653466]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.0884718, -0.065549], 空间位置深度 d =13.0997
+pt2_trans before 归一化:
+[0.6503141350673891, -0.4988243798853698, 13.37722952878378]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0486436, -0.0374863]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.04861351400662658, -0.03728906488537477, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.150397, -0.0772867]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.150331, -0.0779247], 空间位置深度 d =14.0257
+pt2_trans before 归一化:
+[-2.570633663180054, -0.8755601978338158, 14.41272575309207]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.178262, -0.0613666]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.1783586052505409, -0.06074910553584739, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.191953, -0.156887]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.192062, -0.158397], 空间位置深度 d =19.7209
+pt2_trans before 归一化:
+[3.593605644940003, -2.3895709229259, 19.98344149210894]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.18001, -0.121067]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.1798291673813565, -0.1195775474344343, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.226032, 0.0699747]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.226028, 0.0699476], 空间位置深度 d =12.8506
+pt2_trans before 归一化:
+[-3.508687135673139, 1.028945591103362, 13.19822895067719]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.26584, 0.0779348]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.2658453000614988, 0.0779608836116279, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.313609, -0.0255462]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.313598, -0.0256349], 空间位置深度 d =15.3617
+pt2_trans before 归一化:
+[-5.272894837274007, -0.2766765125520873, 15.80940981942513]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.333513, -0.0175861]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.3335288854866147, -0.01750074896610833, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0876555, -0.0685306]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.0875235, -0.0671986], 空间位置深度 d =13.299
+pt2_trans before 归一化:
+[0.6631316321708736, -0.5265938619684982, 13.57726786065525]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0486436, -0.0374863]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.0488413161599708, -0.03878496523549357, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.151193, -0.0780827]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.151301, -0.0770362], 空间位置深度 d =13.947
+pt2_trans before 归一化:
+[-2.575660705202924, -0.859882136741141, 14.33346153271462]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.179854, -0.0589785]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.1796956512789495, -0.05999124041171424, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.342271, -0.0303222]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.342153, -0.0312853], 空间位置深度 d =15.0744
+pt2_trans before 归一化:
+[-5.616851151061105, -0.3824891925326961, 15.5356815952048]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.361379, -0.0255461]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.3615452026768356, -0.02462004580801617, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0556534, -0.0494264]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.0557659, -0.0483924], 空间位置深度 d =15.0309
+pt2_trans before 归一化:
+[-1.292979342222071, -0.4079582062361491, 15.36490502380949]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0843152, -0.0255461]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.08415146987361574, -0.02655130022632592, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.10963, 0.197018]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.109437, 0.198151], 空间位置深度 d =10.2287
+pt2_trans before 归一化:
+[0.368336000717177, 2.279409424825109, 10.41541064002178]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0351089, 0.219943]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.0353645202717045, 0.2188496933636351, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.314565, -0.0207701]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.314458, -0.0216284], 空间位置深度 d =14.5318
+pt2_trans before 归一化:
+[-5.054524955748716, -0.2127740049363252, 14.96997783942759]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.337494, -0.0150388]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.3376441174439299, -0.01421338142371366, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0867002, -0.0666201]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.0869164, -0.0688064], 空间位置深度 d =11.9676
+pt2_trans before 归一化:
+[0.4963202333063983, -0.5091778321663549, 12.24884896821867]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0408413, -0.0436951]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.04051974472002794, -0.04156944325850429, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.148326, -0.0780827]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.148327, -0.0780814], 空间位置深度 d =13.8962
+pt2_trans before 归一化:
+[-2.527660240416462, -0.8696032668731535, 14.28152879070108]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.176988, -0.0608889]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.176988071617533, -0.06089006853659572, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.194185, -0.123933]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.194136, -0.124474], 空间位置深度 d =17.5034
+pt2_trans before 归一化:
+[-3.695454870103946, -1.907916781296874, 17.9631006702509]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.20565, -0.106739]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.2057247764704717, -0.1062131096585468, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.126827, 0.20848]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.127092, 0.206937], 空间位置深度 d =9.59917
+pt2_trans before 归一化:
+[0.4522833753272941, 2.222710455419659, 9.784702446419534]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0465737, 0.225674]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.04622351857953492, 0.2271617831601005, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0508764, -0.0436951]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.0506655, -0.0456362], 空间位置深度 d =13.6066
+pt2_trans before 归一化:
+[-1.192423947283325, -0.3430285567133969, 13.93383422467611]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0852706, -0.0265014]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.08557758963226378, -0.02461838939535471, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.139438, 0.201603]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.139438, 0.201604], 空间位置深度 d =9.43376
+pt2_trans before 归一化:
+[0.5472600688760556, 2.137727697155049, 9.619251818359544]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0568919, 0.222235]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.05689216575363391, 0.2222343002888155, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.118801, 0.201603]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.11886, 0.201259], 空间位置深度 d =9.27307
+pt2_trans before 归一化:
+[0.3316300037126336, 2.085238570543701, 9.466603568056284]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0351089, 0.219943]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.03503157191790224, 0.2202731481837946, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.149473, -0.0803751]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.149289, -0.0821945], 空间位置深度 d =13.9897
+pt2_trans before 归一化:
+[-2.548642245897765, -0.9325456239132746, 14.37796108577042]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.176988, -0.0666201]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.1772603382839939, -0.0648593787638079, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0844072, -0.0734976]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.0844292, -0.0737226], 空间位置深度 d =12.7457
+pt2_trans before 归一化:
+[0.5615601270276398, -0.5963096538210981, 13.02882160947669]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0431343, -0.0459876]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.04310137507901571, -0.04576850245515407, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0531694, -0.0459876]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.0530899, -0.0467189], 空间位置深度 d =15.2451
+pt2_trans before 归一化:
+[-1.258667143588557, -0.3838909258187173, 15.57746569835955]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0806846, -0.0253551]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.08080050811609912, -0.02464399108637707, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.335201, -0.0391101]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.335623, -0.0357175], 空间位置深度 d =15.005
+pt2_trans before 归一化:
+[-5.493901593412685, -0.4425728890498232, 15.46464687371027]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.355838, -0.0253551]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.3552555475904371, -0.02861836372107482, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0156189, -0.0322326]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.0157331, -0.0332662], 空间位置深度 d =14.6806
+pt2_trans before 归一化:
+[-0.249278933369705, -0.124294843578925, 14.97340584705454]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.0164822, -0.00930757]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.01664811171993587, -0.008301040180739867, 0.9999999999999999]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.314565, -0.0253551]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.314936, -0.0224363], 空间位置深度 d =15.4566
+pt2_trans before 归一化:
+[-5.32298213130851, -0.2291840581818541, 15.90423393963897]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.335201, -0.0116001]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.3346896273980075, -0.01441025446756329, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.066927, -0.0184776]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.0669789, -0.0180362], 空间位置深度 d =13.9786
+pt2_trans before 归一化:
+[-1.447948981381643, 0.02469765149165642, 14.30113242253711]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.101321, 0.00215494]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.1012471557217263, 0.001726971736359526, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.22514, 0.07093]
+Point projected from 3D (空间位置投影在相机上的点) :
+[-0.225075, 0.0704957], 空间位置深度 d =12.5546
+pt2_trans before 归一化:
+[-3.437984191207113, 1.009134716019534, 12.90048824946741]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[-0.266413, 0.0778075]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [-0.2665003157030935, 0.07822453666133106, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.111923, 0.146583]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.11204, 0.14583], 空间位置深度 d =10.4952
+pt2_trans before 归一化:
+[0.4596813744604014, 1.796341430124427, 10.69615479093768]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0431343, 0.167215]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.04297632031745339, 0.1679427294420213, 1]
+
+Point int the first camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0500131, -0.0391101]
+Point projected from 3D (空间位置投影在相机上的点) :
+[0.0503337, -0.0421075], 空间位置深度 d =14.1119
+pt2_trans before 归一化:
+[0.2180672950548239, -0.2239274809434094, 14.39374446152389]
+Point int the second camera frame(相机坐标，特征点像素坐标 和 相机内参矩阵 直接运算得到的): 
+[0.0156189, -0.0184776]
+Point projected from second frame (R*3dPointsOfKeypoints1+t)/z(归一化):
+ [0.01515014356672389, -0.01555727778424807, 1]
 
